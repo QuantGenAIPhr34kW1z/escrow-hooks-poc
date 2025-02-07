@@ -1,0 +1,35 @@
+[profile.default]
+src = "contracts"
+out = "out"
+libs = ["lib"]
+test = "test"
+cache_path = "cache"
+solc = "0.8.20"
+optimizer = true
+optimizer_runs = 200
+verbosity = 2
+
+# Useful defaults: keep gas reports easy to turn on
+gas_reports = ["Escrow", "AllowlistHook", "ZkProofHook"]
+
+[fuzz]
+runs = 512
+
+[invariant]
+runs = 128
+depth = 32
+fail_on_revert = true
+
+[fmt]
+line_length = 100
+tab_width = 4
+bracket_spacing = true
+int_types = "long"
+quote_style = "double"
+
+[rpc_endpoints]
+# Optional. Set these env vars locally if you want.
+mainnet = "${MAINNET_RPC_URL}"
+sepolia  = "${SEPOLIA_RPC_URL}"
+
+
