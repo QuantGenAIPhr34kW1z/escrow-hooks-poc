@@ -151,7 +151,7 @@ foundryup
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/escrow-hooks.git
+git clone https://github.com/QuantGenAIPhr34kW1z/escrow-hooks.git
 cd escrow-hooks
 
 # Build contracts
@@ -388,8 +388,8 @@ forge coverage --report lcov
 
 ## 💬 Community & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/escrow-hooks/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/escrow-hooks/discussions)
+- **Issues**: [GitHub Issues](https://github.com/QuantGenAIPhr34kW1z/escrow-hooks/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/QuantGenAIPhr34kW1z/escrow-hooks/discussions)
 
 ---
 
@@ -404,10 +404,10 @@ forge coverage --report lcov
 
 ## 📊 Stats
 
-![Lines of Code](https://img.shields.io/tokei/lines/github/yourusername/escrow-hooks)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/escrow-hooks)
-![Contributors](https://img.shields.io/github/contributors/yourusername/escrow-hooks)
-![Stars](https://img.shields.io/github/stars/yourusername/escrow-hooks?style=social)
+![Lines of Code](https://img.shields.io/tokei/lines/github/QuantGenAIPhr34kW1z/escrow-hooks)
+![Repo Size](https://img.shields.io/github/repo-size/QuantGenAIPhr34kW1z/escrow-hooks)
+![Contributors](https://img.shields.io/github/contributors/QuantGenAIPhr34kW1z/escrow-hooks)
+![Stars](https://img.shields.io/github/stars/QuantGenAIPhr34kW1z/escrow-hooks?style=social)
 
 ---
 
